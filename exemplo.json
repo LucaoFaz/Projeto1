@@ -1,0 +1,18 @@
+{
+  "person": "Lindsay",
+  "age": 20,
+  "height": 1.64,
+  "favoriteFood": ["apple", "banana"],
+  "head": {
+    "hair": {
+      "color": "green",
+      "length": "short"
+    },
+    "eyes": {
+      "color": "dark brown"
+    },
+    "sizeNose": "big"
+  },
+
+  "exemplo": "Ela disse \"ola\" e saiu"
+}
